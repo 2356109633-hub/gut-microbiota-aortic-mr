@@ -1,0 +1,61 @@
+{
+  "title": "Gut microbiota and aortic aneurysm/dissection: a two-sample Mendelian randomization study with independent replication",
+  "description": "Analysis code and summary result tables for a two-sample Mendelian randomization study of 140 gut bacterial taxa and four aortic outcomes, with independent replication of abdominal aortic aneurysm in AAAgen. The repository contains the main MR/sensitivity scripts, figure scripts, harmonised exposure data, derived result tables, and the additional tables used in the manuscript. Raw FinnGen and AAAgen summary statistics are not included; download locations are given in the README.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-11-21",
+  "keywords": [
+    "Mendelian randomization",
+    "gut microbiota",
+    "aortic aneurysm",
+    "aortic dissection",
+    "external replication",
+    "FinnGen",
+    "AAAgen"
+  ],
+  "creators": [
+    {
+      "name": "Guo, Jiangang",
+      "affiliation": "Department of Vascular Intervention, the First Affiliated Hospital of Guilin Medical University, Guilin, Guangxi, China",
+      "orcid": "0000-0002-4322-6216"
+    },
+    {
+      "name": "Han, Zhenfeng",
+      "affiliation": "Department of Vascular Intervention, the First Affiliated Hospital of Guilin Medical University, Guilin, Guangxi, China"
+    },
+    {
+      "name": "Ye, Chunhui",
+      "affiliation": "Department of Hepatobiliary Surgery and Liver Transplantation, the Second Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi, China"
+    },
+    {
+      "name": "Wang, Xinghai",
+      "affiliation": "Department of Vascular Intervention, the First Affiliated Hospital of Guilin Medical University, Guilin, Guangxi, China"
+    },
+    {
+      "name": "Li, Jixue",
+      "affiliation": "Department of Vascular Intervention, the First Affiliated Hospital of Guilin Medical University, Guilin, Guangxi, China"
+    },
+    {
+      "name": "Huang, Jialiang",
+      "affiliation": "Department of Vascular Intervention, the First Affiliated Hospital of Guilin Medical University, Guilin, Guangxi, China"
+    },
+    {
+      "name": "Li, Dajun",
+      "affiliation": "Department of Vascular Intervention, the First Affiliated Hospital of Guilin Medical University, Guilin, Guangxi, China"
+    },
+    {
+      "name": "Nong, Gui",
+      "affiliation": "Department of Vascular Intervention, the First Affiliated Hospital of Guilin Medical University, Guilin, Guangxi, China"
+    },
+    {
+      "name": "Liang, Xuwei",
+      "affiliation": "Department of Vascular Intervention, the First Affiliated Hospital of Guilin Medical University, Guilin, Guangxi, China"
+    },
+    {
+      "name": "Zeng, Xiaoyun",
+      "affiliation": "School of Public Health, Guilin Medical University, Guilin, Guangxi, China"
+    }
+  ]
+}
