@@ -1,0 +1,35 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval","n_used"
+"xl0geU","family Alcaligenaceae","taxa_family Alcaligenaceae","AA_R13","Inverse variance weighted",10,0.044552337759482,0.045626274902815,0.328835416855855,10
+"xl0geU","family Defluviitaleaceae","taxa_family Defluviitaleaceae","AA_R13","Inverse variance weighted",10,-0.00195370542213256,0.0692196923003773,0.977482933021971,10
+"xl0geU","family Peptostreptococcaceae","taxa_family Peptostreptococcaceae","AA_R13","Inverse variance weighted",4,-0.0628932171804691,0.0556178130565092,0.258134782459905,4
+"xl0geU","family Victivallaceae","taxa_family Victivallaceae","AA_R13","Inverse variance weighted",4,-0.0174120232396519,0.0727961967945509,0.810959311746767,4
+"xl0geU","genus Actinomyces","taxa_genus Actinomyces","AA_R13","Inverse variance weighted",4,0.00914370515483424,0.0876228233658003,0.916889213487727,4
+"xl0geU","genus Bilophila","taxa_genus Bilophila","AA_R13","Inverse variance weighted",4,0.0333170378510625,0.0853035649145205,0.696114891883873,4
+"xl0geU","genus Catenibacterium","taxa_genus Catenibacterium","AA_R13","Inverse variance weighted",4,-0.109004405379741,0.128830080107539,0.397491441974749,4
+"xl0geU","genus Clostridium innocuum group","taxa_genus Clostridium innocuum group","AA_R13","Inverse variance weighted",4,-0.0318019076251702,0.181524547949994,0.860927649018886,4
+"xl0geU","genus Coprobacter","taxa_genus Coprobacter","AA_R13","Inverse variance weighted",4,0.113237370773577,0.0913156295001601,0.21495113181804,4
+"xl0geU","genus Eubacterium xylanophilum group","taxa_genus Eubacterium xylanophilum group","AA_R13","Inverse variance weighted",10,-0.0107285430296752,0.0394293333262897,0.785548611701191,10
+"xl0geU","genus Family XIII AD3011 group","taxa_genus Family XIII AD3011 group","AA_R13","Inverse variance weighted",4,-0.0524498087288655,0.0587698008190664,0.372145399834337,4
+"xl0geU","genus Prevotella7","taxa_genus Prevotella7","AA_R13","Inverse variance weighted",4,-0.0783868619740299,0.126646042424886,0.535952970639056,4
+"xl0geU","genus Ruminococcaceae UCG003","taxa_genus Ruminococcaceae UCG003","AA_R13","Inverse variance weighted",10,-0.010418325464227,0.0315536820330765,0.741265616580702,10
+"xl0geU","genus Ruminococcaceae UCG011","taxa_genus Ruminococcaceae UCG011","AA_R13","Inverse variance weighted",4,-0.153427401371891,0.137700684782863,0.265189351260688,4
+"xl0geU","genus Ruminococcaceae UCG014","taxa_genus Ruminococcaceae UCG014","AA_R13","Inverse variance weighted",10,-0.0205887174840645,0.035278454045963,0.559485421889162,10
+"xl0geU","phylum Cyanobacteria","taxa_phylum Cyanobacteria","AA_R13","Inverse variance weighted",4,-0.0320106648292684,0.0860937267979328,0.710032966189989,4
+"xl0geU","phylum Firmicutes","taxa_phylum Firmicutes","AA_R13","Inverse variance weighted",4,-0.0626333946408705,0.0681635292343241,0.358163783986684,4
+"I2DU4T","family Peptostreptococcaceae","taxa_family Peptostreptococcaceae","AAA_R13","Inverse variance weighted",11,-0.0013563926309654,0.0295195259801666,0.963350900885843,11
+"I2DU4T","family Victivallaceae","taxa_family Victivallaceae","AAA_R13","Inverse variance weighted",11,-0.0010444010236381,0.0569328361071804,0.985364075041245,11
+"I2DU4T","genus Actinomyces","taxa_genus Actinomyces","AAA_R13","Inverse variance weighted",11,-0.039507487739494,0.0434577739878533,0.363297034035443,11
+"I2DU4T","genus Bilophila","taxa_genus Bilophila","AAA_R13","Inverse variance weighted",11,0.0107746248573874,0.0352157671313435,0.759634912475846,11
+"I2DU4T","genus Catenibacterium","taxa_genus Catenibacterium","AAA_R13","Inverse variance weighted",9,-0.0414670845336474,0.0762563613390577,0.58658925990938,9
+"I2DU4T","genus Clostridium innocuum group","taxa_genus Clostridium innocuum group","AAA_R13","Inverse variance weighted",11,0.0319265678605856,0.0541265122747253,0.555290665497169,11
+"I2DU4T","genus Coprobacter","taxa_genus Coprobacter","AAA_R13","Inverse variance weighted",11,0.0269670071470451,0.0669303743267155,0.687013444968035,11
+"I2DU4T","genus Family XIII AD3011 group","taxa_genus Family XIII AD3011 group","AAA_R13","Inverse variance weighted",11,0.0367381341656695,0.0326622850926992,0.26067903847266,11
+"I2DU4T","genus Prevotella7","taxa_genus Prevotella7","AAA_R13","Inverse variance weighted",10,-0.083137013176268,0.0649836883789381,0.200773120679198,10
+"I2DU4T","genus Ruminococcaceae UCG011","taxa_genus Ruminococcaceae UCG011","AAA_R13","Inverse variance weighted",11,-0.000499075804666181,0.0226065695235023,0.982386866115193,11
+"I2DU4T","phylum Cyanobacteria","taxa_phylum Cyanobacteria","AAA_R13","Inverse variance weighted",11,-0.0282475483630015,0.0435461569336228,0.516544829228172,11
+"I2DU4T","phylum Firmicutes","taxa_phylum Firmicutes","AAA_R13","Inverse variance weighted",11,0.00535991312467325,0.0298095804913802,0.857305618540655,11
+"3giG3k","family Alcaligenaceae","taxa_family Alcaligenaceae","TAA_R13","Inverse variance weighted",18,0.0248362057390598,0.0226005314632261,0.271802388808655,18
+"3giG3k","family Defluviitaleaceae","taxa_family Defluviitaleaceae","TAA_R13","Inverse variance weighted",18,-0.0110008109758982,0.0338348834950043,0.745081000214938,18
+"3giG3k","genus Eubacterium xylanophilum group","taxa_genus Eubacterium xylanophilum group","TAA_R13","Inverse variance weighted",18,-0.009644383869199,0.0223517189309175,0.666117304288278,18
+"3giG3k","genus Ruminococcaceae UCG003","taxa_genus Ruminococcaceae UCG003","TAA_R13","Inverse variance weighted",18,-0.00624541586069817,0.0190449096447398,0.742963850064199,18
+"3giG3k","genus Ruminococcaceae UCG014","taxa_genus Ruminococcaceae UCG014","TAA_R13","Inverse variance weighted",18,-0.0276301134505439,0.0206865577136229,0.18166191863816,18

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and the archived repository."
+title: "Gut microbiota and aortic aneurysm/dissection: a two-sample Mendelian randomization study with independent replication"
+authors:
+  - family-names: Guo
+    given-names: Jiangang
+    orcid: "https://orcid.org/0000-0002-4322-6216"
+  - family-names: Han
+    given-names: Zhenfeng
+  - family-names: Ye
+    given-names: Chunhui
+  - family-names: Wang
+    given-names: Xinghai
+  - family-names: Li
+    given-names: Jixue
+  - family-names: Huang
+    given-names: Jialiang
+  - family-names: Li
+    given-names: Dajun
+  - family-names: Nong
+    given-names: Gui
+  - family-names: Liang
+    given-names: Xuwei
+  - family-names: Zeng
+    given-names: Xiaoyun
+version: "1.0.0"
+date-released: "2026-11-21"
+license: MIT
